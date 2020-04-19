@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/mikbio/my_first_proj/static/css/main.097df4f6.chunk.css",
+    "main.js": "/mikbio/my_first_proj/static/js/main.d2384210.chunk.js",
+    "main.js.map": "/mikbio/my_first_proj/static/js/main.d2384210.chunk.js.map",
+    "runtime-main.js": "/mikbio/my_first_proj/static/js/runtime-main.c17d86dc.js",
+    "runtime-main.js.map": "/mikbio/my_first_proj/static/js/runtime-main.c17d86dc.js.map",
+    "static/js/2.7aaef059.chunk.js": "/mikbio/my_first_proj/static/js/2.7aaef059.chunk.js",
+    "static/js/2.7aaef059.chunk.js.map": "/mikbio/my_first_proj/static/js/2.7aaef059.chunk.js.map",
+    "index.html": "/mikbio/my_first_proj/index.html",
+    "precache-manifest.871d1579cacf77d9ca5de80f70761238.js": "/mikbio/my_first_proj/precache-manifest.871d1579cacf77d9ca5de80f70761238.js",
+    "service-worker.js": "/mikbio/my_first_proj/service-worker.js",
+    "static/css/main.097df4f6.chunk.css.map": "/mikbio/my_first_proj/static/css/main.097df4f6.chunk.css.map",
+    "static/js/2.7aaef059.chunk.js.LICENSE.txt": "/mikbio/my_first_proj/static/js/2.7aaef059.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c17d86dc.js",
+    "static/js/2.7aaef059.chunk.js",
+    "static/css/main.097df4f6.chunk.css",
+    "static/js/main.d2384210.chunk.js"
+  ]
+}
